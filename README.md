@@ -1,5 +1,11 @@
 # Ember Simple Auth Devise Example
 
+To know how to build the devise backend, check the commits here:  
+https://github.com/jimbeaudoin/ember-simple-auth-example/commits/devise-integration
+
+You can also take a look at this blog post:  
+http://givan.se/ember-cli-simple-auth-devise/
+
 ### Version
   * Ember: 2.1.0
   * Ember Simple Auth: 1.0.1

@@ -1,5 +1,11 @@
 # Ember Simple Auth Devise Example
 
+### Version
+  * Ember: 2.1.0
+  * Ember Simple Auth: 1.0.1
+  * Rails: 4.2.4
+  * Devise: 3.5.2
+
 ### Backend Setup
 ```sh
 cd backend/
